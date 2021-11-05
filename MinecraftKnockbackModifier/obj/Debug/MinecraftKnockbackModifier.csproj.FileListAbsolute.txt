@@ -1,0 +1,10 @@
+C:\Users\toron\source\repos\MinecraftKnockbackModifier\obj\Debug\MinecraftKnockbackModifier.Form1.resources
+C:\Users\toron\source\repos\MinecraftKnockbackModifier\obj\Debug\MinecraftKnockbackModifier.Properties.Resources.resources
+C:\Users\toron\source\repos\MinecraftKnockbackModifier\obj\Debug\MinecraftKnockbackModifier.csproj.GenerateResource.cache
+C:\Users\toron\source\repos\MinecraftKnockbackModifier\obj\Debug\MinecraftKnockbackModifier.csproj.CoreCompileInputs.cache
+C:\Users\toron\source\repos\MinecraftKnockbackModifier\bin\Debug\Minecraft Knockback Modifier.exe.config
+C:\Users\toron\source\repos\MinecraftKnockbackModifier\bin\Debug\Minecraft Knockback Modifier.exe
+C:\Users\toron\source\repos\MinecraftKnockbackModifier\bin\Debug\Minecraft Knockback Modifier.pdb
+C:\Users\toron\source\repos\MinecraftKnockbackModifier\obj\Debug\Minecraft Knockback Modifier.exe
+C:\Users\toron\source\repos\MinecraftKnockbackModifier\obj\Debug\Minecraft Knockback Modifier.pdb
+C:\Users\toron\source\repos\MinecraftKnockbackModifier\obj\Debug\MinecraftKnockbackModifier.csproj.AssemblyReference.cache
